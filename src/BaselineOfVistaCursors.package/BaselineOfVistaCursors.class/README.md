@@ -1,1 +1,0 @@
-A baseline for Vista cursors

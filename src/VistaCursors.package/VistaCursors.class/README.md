@@ -1,1 +1,0 @@
-a better cursor similar to Windows vista

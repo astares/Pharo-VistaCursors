@@ -1,3 +1,0 @@
-operating
-reset
-	Cursor initialize
