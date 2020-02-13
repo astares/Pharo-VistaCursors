@@ -1,5 +1,9 @@
 # Pharo-VistaCursors
 
+Changes the Pharo cursor on Windows 
+
+![Screenshot](doc/screenshot.png)
+
 ## Quick Start
 
 ```Smalltalk
